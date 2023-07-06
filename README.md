@@ -19,3 +19,8 @@
 
 I am trying to start a new paragraph! I hope it works. 
 <param ve-video vid="DF-b6TsO1DM">
+
+## Plant specimen
+
+To the right, you will see a specimen of Mimosa pudica.
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000532629">
