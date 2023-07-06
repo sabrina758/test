@@ -15,4 +15,7 @@
 
 <param ve-image url="Mimosa.jpg" label="Mimosa pudica flower">
 
+## New Section Test
+
+I am trying to start a new paragraph! I hope it works. 
 <param ve-video vid="DF-b6TsO1DM">
