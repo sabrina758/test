@@ -12,4 +12,4 @@
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
-<param ve-image url="Mimosa.jpg" label=“Mimosa pudica flower”>
+<param ve-image url="Mimosa.jpg" label="Mimosa pudica flower">
