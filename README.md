@@ -23,4 +23,4 @@ I am trying to start a new paragraph! I hope it works.
 ## Plant specimen
 
 To the right, you will see a specimen of Mimosa pudica.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000532629">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bnrh0000364">
