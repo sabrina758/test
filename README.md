@@ -29,4 +29,4 @@ To the right, you will see a specimen of Mimosa pudica.
 
 Now we are trying to embed primary source text. We can use either Google Books or archive.org. We're going to try archive.org for now. copy and paste the whole link. 
 
-<parram ve-iframe src="https://archive.org...](https://archive.org/download/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958.jpg)https://archive.org/download/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958.jpg">
+<parram ve-iframe src="https://archive.org/download/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958.jpg">
