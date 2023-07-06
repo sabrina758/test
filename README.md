@@ -24,3 +24,9 @@ I am trying to start a new paragraph! I hope it works.
 
 To the right, you will see a specimen of Mimosa pudica.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.bnrh0000364">
+
+## Primary source text
+
+Now we are trying to embed primary source text. We can use either Google Books or archive.org. We're going to try archive.org for now. copy and paste the whole link. 
+
+<parram ve-iframe src="https://archive.org...](https://archive.org/download/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958.jpg)https://archive.org/download/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958/Mimosa-pudica-Sensitiva-PHAIDRA_o_267958.jpg">
