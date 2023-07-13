@@ -29,3 +29,14 @@ To the right, you will see a specimen of Mimosa pudica.
 Now we are trying to embed primary source text. We can use either Google Books or archive.org. We're going to try archive.org for now. copy and paste the whole link. 
 
 <param ve-iframe src="https://archive.org/details/sbaww_124_0507-0528/page/n20/mode/2up?view=theater">
+
+## Timeline!
+
+Lets see if the timeline shows up! 
+
+<param ve-knightlab-timeline
+source="14w7zD7sNWltsUVesaHF_xVvB4yDoXZuaUNchFP-sTkA"
+timenav-position="bottom"
+hash-bookmark="false"
+initial-zoom="1"
+height="705">
