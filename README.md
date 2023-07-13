@@ -43,6 +43,9 @@ height="705">
 
 ## Maps! 
 
-Now we're going to code a map. 
+Now we're going to code a map. "Esri_WorldPhysical" shows a world map without modern political borders.
 
 <param ve-map basemap="Esri_WorldPhysical">
+
+New paragraph. Use center to focus the map on a specific location. Zoom zooms in! You can also get coordinates on Google Maps. 
+<param ve-map center="Q733" zoom=3>
