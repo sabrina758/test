@@ -40,3 +40,9 @@ timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
 height="705">
+
+## Maps! 
+
+Now we're going to code a map. 
+
+<param ve-map basemap="Esri_WorldPhysical">
