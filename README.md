@@ -61,4 +61,4 @@ trying to annotate an image. in order to annotate, click on the little comment t
 
 mapping!
 
-<param ve-map title="test map">
+<param ve-map title="test map" center="-23.55250132365363, -46.64158231085635">
