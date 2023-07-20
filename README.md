@@ -64,6 +64,6 @@ mapping! find the coordinates on google map to center your map. then use zoom if
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/sabrina758/test/main/maplayers.json">
 
-it didn't work, so i amawe're not going to try <span data-mouseover-map-flyto="-23.578856648290582, -46.47665865939823, zoom=14">connecting</span> words in the text to the map. i deleted the map layer.
+it didn't work, so i amawe're not going to try <span data-mouseover-map-flyto="-23.578856648290582, -46.47665865939823, 14">connecting</span> words in the text to the map. i deleted the map layer.
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
