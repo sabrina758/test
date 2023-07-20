@@ -38,5 +38,30 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#52ede4a0-528d-44a3-b3dc-e35b658e6ba1"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "you can add as many rectangles as you want",
+        "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "seeing what the tag does",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/a2ec916f59341d2cf6b90f494daba06bb359eb862246eaeff23ee25b65035ea3",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:564.51904296875,2194.7802734375,532.3441162109375,607.340087890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0edeac7d-badd-4947-92fd-a3489d788eff"
   }
 ]
