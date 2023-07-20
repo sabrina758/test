@@ -59,6 +59,6 @@ trying to annotate an image. in order to annotate, click on the little comment t
 
 ## more maps
 
-mapping! find the coordinates on google map to center your map. then use zoom if desired.
+mapping! find the coordinates on google map to center your map. then use zoom if desired. to draw shapes or drop points, use geojson.io. the code is written on the right side of the page automatically. 
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
