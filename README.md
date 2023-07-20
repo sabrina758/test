@@ -59,11 +59,11 @@ trying to annotate an image. in order to annotate, click on the little comment t
 
 ## more maps
 
-mapping! find the coordinates on google map to center your map. then use zoom if desired. to draw shapes or drop points, use geojson.io. the code is written on the right side of the page automatically. when you're done making the changes you want to the map, copy the code. in gitbub, go to the repositories and create a new file. paste all of the code from geogson. then name the file anything.json, and commit changes. you can add as many layers as you want, but you have to make a new repository for each geojson file.  
+mapping! find the coordinates on google map to center your map. then use zoom if desired. to draw shapes or drop points, use geojson.io. the code is written on the right side of the page automatically. when you're done making the changes you want to the map, copy the code. in gitbub, go to the repositories and create a new file. paste all of the code from geogson. then name the file anything.json, and commit changes. you can add as many layers as you want, but you have to make a new repository for each geojson file. we're not going to try <span data-mouseover-map-flyto="-23.393234459064555, -46.59150010356098, 14">connecting</span> words in the text to the map. i deleted the map layer.
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/sabrina758/test/main/maplayers.json">
 
-we're not going to try <span data-mouseover-map-flyto="-23.578856648290582, -46.47665865939823, zoom=14">connecting</span> words in the text to the map. i deleted the map layer.
+it didn't work, so i amawe're not going to try <span data-mouseover-map-flyto="-23.578856648290582, -46.47665865939823, zoom=14">connecting</span> words in the text to the map. i deleted the map layer.
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
