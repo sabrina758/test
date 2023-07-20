@@ -49,3 +49,10 @@ Now we're going to code a map. "Esri_WorldPhysical" shows a world map without mo
 
 New paragraph. Use center to focus the map on a specific location. Zoom zooms in! You can also get coordinates on Google Maps. 
 <param ve-map center="Q733" zoom=3>
+
+
+## new image
+
+trying to annotate an image
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Mimosa_leaves_detail.jpg">
