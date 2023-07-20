@@ -67,3 +67,5 @@ mapping! find the coordinates on google map to center your map. then use zoom if
 it didn't work, so i amawe're not going to try <span data-mouseover-map-flyto="-23.578856648290582, -46.47665865939823, 14">connecting</span> words in the text to the map. i deleted the map layer.
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
+
+now we are getting a map from natural earth on geojson. https://github.com/martynafford/natural-earth-geojson is the link we used. then we found a file and got the raw data. then we used command f to find a country. 
