@@ -53,6 +53,6 @@ New paragraph. Use center to focus the map on a specific location. Zoom zooms in
 
 ## new image
 
-trying to annotate an image
+trying to annotate an image. in order to annotate, click on the little comment thing with the pen. then press shift and command, and then draw a rectangle with the mouse. you can add annotations. up to 5 annotations should be aliright, but don't do more. And then you can play the slideshow buttun, which will present the annotations to the reader!
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Mimosa_leaves_detail.jpg">
