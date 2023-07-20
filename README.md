@@ -59,7 +59,7 @@ trying to annotate an image. in order to annotate, click on the little comment t
 
 ## more maps
 
-mapping! find the coordinates on google map to center your map. then use zoom if desired. to draw shapes or drop points, use geojson.io. the code is written on the right side of the page automatically. when you're done making the changes you want to the map, copy the code. in gitbub, go to the repositories and create a new file. paste all of the code from geogson. then name the file anything.json, and commit changes.
+mapping! find the coordinates on google map to center your map. then use zoom if desired. to draw shapes or drop points, use geojson.io. the code is written on the right side of the page automatically. when you're done making the changes you want to the map, copy the code. in gitbub, go to the repositories and create a new file. paste all of the code from geogson. then name the file anything.json, and commit changes. you can add as many layers as you want, but you have to make a new repository for each geojson file.
 
 <param ve-map title="test map" center="-23.55250132365363, -46.64158231085635" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/sabrina758/test/main/maplayers.json">
