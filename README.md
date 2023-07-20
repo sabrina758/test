@@ -61,4 +61,4 @@ trying to annotate an image. in order to annotate, click on the little comment t
 
 mapping!
 
-<param ve-map>
+<param ve-map title="test map">
